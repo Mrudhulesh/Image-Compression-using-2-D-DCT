@@ -7,13 +7,13 @@ This project explores the application of the 2-Dimensional Discrete Cosine Trans
 To run this project, MATLAB software is required. Clone the repository to your local machine and open the project files in MATLAB.
 
 ```bash
-git clone https://github.com/yourgithubusername/image-compression-dct.git
+git clone https://github.com/Mrudhulesh/image-compression-dct.git
 cd image-compression-dct
 ```
 
 
 ## Usage
-Open the ImageCompressionDCT.m script in MATLAB and run it. The script will load an image, perform the compression, and display the original and reconstructed images alongside their DFT magnitude spectrums.
+Open the runme.m script in MATLAB and run it. The script will load an image, perform the compression, and display the original and reconstructed images alongside their DFT magnitude spectrums.
 
 ## Features
 Image segmentation into non-overlapping 8x8 blocks.
@@ -23,11 +23,23 @@ Bit rate calculation and image reconstruction.
 Analysis of image quality using PSNR.
 Visualization of original and reconstructed images and their DFT magnitude spectrum.
 
+## Original Image
+original_image.png
+
+## Reconstructed Image (50% Coefficients)
+reconstructed_image_50.png
+
+## Reconstructed Image (75% Coefficients)
+reconstructed_image_75.png
+
 ## Technologies Used
 MATLAB
 Image and signal processing techniques
 ## Contributing
 Feel free to fork this repository and submit pull requests to contribute. You can also open issues to suggest improvements or report bugs.
+
+## Troubleshooting
+If you encounter issues with MATLAB not recognizing the mydct2 function, ensure that your Image Processing Toolbox is installed and updated.
 
 ## Authors
 Kurapati Mrudhulesh
