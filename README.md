@@ -24,13 +24,13 @@ Analysis of image quality using PSNR.
 Visualization of original and reconstructed images and their DFT magnitude spectrum.
 
 ### Original Image
-![Original Image](images/original_image.png)
+![Original Image](original_image.png)
 
 ### Reconstructed Image (50% Coefficients)
-![Reconstructed Image 50%](images/reconstructed_image_50.png)
+![Reconstructed Image 50%](reconstructed_image_50.png)
 
 ### Reconstructed Image (75% Coefficients)
-![Reconstructed Image 75%](images/reconstructed_image_75.png)
+![Reconstructed Image 75%](reconstructed_image_75.png)
 
 
 ## Technologies Used
