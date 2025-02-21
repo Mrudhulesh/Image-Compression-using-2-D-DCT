@@ -23,14 +23,15 @@ Bit rate calculation and image reconstruction.
 Analysis of image quality using PSNR.
 Visualization of original and reconstructed images and their DFT magnitude spectrum.
 
-## Original Image
-original_image.png
+### Original Image
+![Original Image](images/original_image.png)
 
-## Reconstructed Image (50% Coefficients)
-reconstructed_image_50.png
+### Reconstructed Image (50% Coefficients)
+![Reconstructed Image 50%](images/reconstructed_image_50.png)
 
-## Reconstructed Image (75% Coefficients)
-reconstructed_image_75.png
+### Reconstructed Image (75% Coefficients)
+![Reconstructed Image 75%](images/reconstructed_image_75.png)
+
 
 ## Technologies Used
 MATLAB
