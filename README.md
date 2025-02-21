@@ -42,6 +42,9 @@ Feel free to fork this repository and submit pull requests to contribute. You ca
 ## Troubleshooting
 If you encounter issues with MATLAB not recognizing the mydct2 function, ensure that your Image Processing Toolbox is installed and updated.
 
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 ## Authors
 Kurapati Mrudhulesh
 ## Acknowledgments
